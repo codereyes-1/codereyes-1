@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliodaniel)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codereyes-1&theme=radical)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codereyes-1&theme=onedark)
