@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+theme=tokyonight
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliodaniel&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliodaniel&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=juliodaniel&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juliodaniel&theme=onedark)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliodaniel)
