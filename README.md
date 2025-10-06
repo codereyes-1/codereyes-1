@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codereyes-1&layout=compact&theme=radical)
+### Contribution Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codereyes-1&theme=radical)
