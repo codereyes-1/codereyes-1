@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliodaniel&show_icons=true&theme=tokyonight)
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=codereyes-1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliodaniel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codereyes-1&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=juliodaniel&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=codereyes-1&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juliodaniel&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codereyes-1&theme=onedark)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
