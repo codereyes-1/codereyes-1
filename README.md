@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliodaniel)
 
-![](https://github-readme-stats.vercel.app/api?username=codereyes-1&show_icons=true&theme=radical)
+![Julio Daniel Reyes' GitHub stats](https://github-readme-stats.vercel.app/api?username=codereyes-1&show_icons=true&theme=radical)
 ### Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
