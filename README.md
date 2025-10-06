@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-theme="tokyonight"
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliodaniel&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliodaniel&layout=compact&theme=radical)
